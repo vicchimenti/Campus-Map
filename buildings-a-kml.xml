@@ -1,71 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
-	<name>buildings-a.kml</name>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>033c3c3c</color>
-		</LineStyle>
-		<PolyStyle>
-			<color>031e1e1e</color>
-		</PolyStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>033c3c3c</color>
-		</LineStyle>
-		<PolyStyle>
-			<color>031e1e1e</color>
-		</PolyStyle>
-	</Style>
-	<Folder>
-		<name>Buildings</name>
-		<Style>
-			<ListStyle>
-				<listItemType>check</listItemType>
-				<bgColor>ffffffff</bgColor>
-				<maxSnippetLines>2</maxSnippetLines>
-			</ListStyle>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>buildings-a.kml</name>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>033c3c3c</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>031e1e1e</color>
+			</PolyStyle>
 		</Style>
-	<Placemark>
-		<name>Broadway Building</name>
-		<description>College of Arts and Sciences, Associate Vice President for Planning</description>
-		<styleUrl>#msn_ylw-pushpin</styleUrl>
-		<Polygon>
-			<tessellate>1</tessellate>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>033c3c3c</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>031e1e1e</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>Buildings</name>
+			<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>ffffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Broadway Building</name>
+				<description>College of Arts and Sciences, Associate Vice President for Planning</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 						-122.3213768122507,47.61180017723547,0 -122.3218113610711,47.6116234127176,0 -122.3213259790424,47.61107368419649,0 -122.3209599390362,47.61122931701354,0 -122.3209985754146,47.61127764013644,0 -122.3209276905788,47.61130772719867,0 -122.3213768122507,47.61180017723547,0 
-					</coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
 			<Placemark>
 				<name>1313 East Columbia Building</name>
 				<description>Facilities Services
@@ -190,418 +193,418 @@
 					</outerBoundaryIs>
 				</Polygon>
 			</Placemark>
-		<Placemark>
-			<name>Campion Residence Hall</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+			<Placemark>
+				<name>Campion Residence Hall</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3199396889042,47.60674657661581,0 -122.3199737386923,47.60674564578847,0 -122.3199719250865,47.60660822579047,0 -122.3199403448223,47.60660784370509,0 -122.3199392390615,47.60640681144407,0 -122.3196790381776,47.60640379625526,0 -122.319678736491,47.60645039811806,0 -122.3196487249802,47.60645046305467,0 -122.3196486970638,47.60647811270142,0 -122.3196795918488,47.60647856856277,0 -122.3196794946687,47.60650158585309,0 -122.3190368761986,47.60650141584473,0 -122.3190373000327,47.60686061499985,0 -122.3196843604701,47.60685815075715,0 -122.3196857621015,47.60704186843773,0 -122.3196428487826,47.60704187208389,0 -122.3196426626444,47.60706940604022,0 -122.3196855567416,47.60706828252862,0 -122.3196852236454,47.60711394398646,0 -122.3199428545904,47.60710822629661,0 -122.3199396889042,47.60674657661581,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Casey Building</name>
-			<description>College of Arts and Sciences, Kinsey Gallery, Matteo Ricci College, Casey Atrium, Casey Commons, Institute of Public Service</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Casey Building</name>
+				<description>College of Arts and Sciences, Kinsey Gallery, Matteo Ricci College, Casey Atrium, Casey Commons, Institute of Public Service</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.320012194716,47.61018287419774,0 -122.3198037722039,47.61018320467963,0 -122.3198141366337,47.6101748245256,0 -122.3198217007774,47.6101646483693,0 -122.3198264930117,47.61015314238568,0 -122.3198285371003,47.6101389316946,0 -122.3198278532033,47.61012704497449,0 -122.3198251316798,47.61011744995511,0 -122.3198217349248,47.61010649886451,0 -122.3198162983622,47.61009916986107,0 -122.3198101779506,47.61009273862491,0 -122.319797231108,47.61008302908282,0 -122.3197849372531,47.61007421675051,0 -122.3197664049083,47.61006572189125,0 -122.3197470327136,47.61006078660762,0 -122.3197239878871,47.61005894444969,0 -122.3197042960414,47.61005903373325,0 -122.3196794702002,47.61006182270647,0 -122.319662976029,47.61006663473278,0 -122.3196492678855,47.61007059378555,0 -122.3196376123937,47.6100763311856,0 -122.3196379426086,47.60991357296019,0 -122.3195811919035,47.60991373947644,0 -122.3195816588631,47.60992679062201,0 -122.3195058435792,47.60992593299999,0 -122.3195060818384,47.60991316902425,0 -122.3194473625877,47.60991351923601,0 -122.3194356251451,47.61019525449894,0 -122.3195738091819,47.61019411779981,0 -122.3195576188619,47.6102041642627,0 -122.3195611148967,47.61022181151105,0 -122.3195815262329,47.61023320550932,0 -122.319600119271,47.61023513605819,0 -122.3196198835467,47.61022469057816,0 -122.3196194542379,47.61031509513002,0 -122.3200062385752,47.61031500009633,0 -122.3200067108794,47.61027301733724,0 -122.3199905600969,47.61027295791288,0 -122.3199900077883,47.6102271837917,0 -122.3200116498665,47.61022683584776,0 -122.320012194716,47.61018287419774,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Chapel of St. Ignatius</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Chapel of St. Ignatius</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3180568401417,47.61118833361326,0 -122.3180339080333,47.61118870417211,0 -122.3180339323861,47.61117605324184,0 -122.317828035532,47.61117571549067,0 -122.3178285349461,47.6114967660037,0 -122.3180564732422,47.61149738477176,0 -122.3180568401417,47.61118833361326,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Connolly Center</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Connolly Center</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3137587838539,47.60750138406587,0 -122.3139494620992,47.60750004493358,0 -122.3139519383373,47.6071825286398,0 -122.3137638938533,47.60718065504996,0 -122.313766437891,47.60691919841457,0 -122.3135618984626,47.60691792464865,0 -122.3135611889667,47.60688692246378,0 -122.313469978242,47.6068870317455,0 -122.3134706266703,47.60667324031609,0 -122.3129978144126,47.60667359151948,0 -122.3129949005428,47.60789044992148,0 -122.3135774518312,47.60789699138439,0 -122.313576308385,47.60782147341051,0 -122.3137579702984,47.60782074747426,0 -122.3137587838539,47.60750138406587,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Dept. of Military Science</name>
-			<description>Dept. of Military Science, ROTC</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Dept. of Military Science</name>
+				<description>Dept. of Military Science, ROTC</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3155742891019,47.60830272324702,0 -122.3155765779932,47.60846233313895,0 -122.3159037455812,47.60846505932637,0 -122.3159039255524,47.60830428356265,0 -122.3155742891019,47.60830272324702,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Fine Arts Building</name>
-			<description>Fine Arts Main Office, Press Room, Printmaking, Painting, Vachon Gallery, Acting Studio, Audio Recording, Chair Room, Faculty Lounge, Practice Rooms</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Fine Arts Building</name>
+				<description>Fine Arts Main Office, Press Room, Printmaking, Painting, Vachon Gallery, Acting Studio, Audio Recording, Chair Room, Faculty Lounge, Practice Rooms</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3191965348457,47.61160754844507,0 -122.3184807586896,47.61160782105726,0 -122.318478778038,47.61183105755161,0 -122.3188996313537,47.61183250794132,0 -122.3191965033349,47.61170719118831,0 -122.3191965348457,47.61160754844507,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Garrand Building</name>
-			<description>College of Nursing</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Garrand Building</name>
+				<description>College of Nursing</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3200341837568,47.61051471325462,0 -122.3195903128955,47.61051191482085,0 -122.3195891075304,47.61051986690764,0 -122.3195387132112,47.61051940086249,0 -122.3195394807105,47.61066443087985,0 -122.3195791194388,47.61066596275953,0 -122.3195814817443,47.61067317616664,0 -122.3200335196917,47.61067305182241,0 -122.3200341837568,47.61051471325462,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Hunthausen Hall</name>
-			<description>School of Theology and Ministry, Fine Arts Annex</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Hunthausen Hall</name>
+				<description>School of Theology and Ministry, Fine Arts Annex</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3184088793126,47.61162485657627,0 -122.3181748797594,47.61162502331295,0 -122.3181750592544,47.61185149382554,0 -122.3182229761599,47.61208501535758,0 -122.3182308297286,47.61208606940939,0 -122.3184667204706,47.61199087051629,0 -122.3184660705815,47.61183449442829,0 -122.318410307876,47.61183456859494,0 -122.3184088793126,47.61162485657627,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>James Tower</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>James Tower</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3090249759621,47.60733668798815,0 -122.3090940813791,47.60733663568692,0 -122.3090938587842,47.60746376967823,0 -122.3097754629751,47.60746421573747,0 -122.3097753684054,47.6073415920557,0 -122.3095811491531,47.60733993086825,0 -122.309580996676,47.60731015045109,0 -122.3096069378235,47.60730958395509,0 -122.309607117786,47.60713640088372,0 -122.3096717339053,47.6071363764229,0 -122.3096724485219,47.60707796994657,0 -122.3096900109383,47.60707796310356,0 -122.3096924076608,47.60701490124679,0 -122.3096714749334,47.60701434309783,0 -122.3096713695567,47.60696469520673,0 -122.3096091247468,47.60696472070661,0 -122.3096104260103,47.60678224625391,0 -122.3095774824106,47.60678218745211,0 -122.3095775005501,47.60675197980974,0 -122.3097867087554,47.6067539912092,0 -122.3097837018608,47.60663098379143,0 -122.3091465909399,47.60662988065486,0 -122.3091452695652,47.60676065572282,0 -122.3090222190325,47.60676205819001,0 -122.3090249759621,47.60733668798815,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>James C. Pigott Pavilion
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>James C. Pigott Pavilion
 for Leadership</name>
-			<description>Career Services, Center for Service and Community Engagement, Commuter and Transfer Student Services, Counseling &amp; Psychological Services, Intergrity Formation Programs, International Student Center, Leadership Development, New Student &amp; Family Programs, SUper Copy, Reprographics &amp; Mailing Services, Wellness &amp; Health Promotion</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+				<description>Career Services, Center for Service and Community Engagement, Commuter and Transfer Student Services, Counseling &amp; Psychological Services, Intergrity Formation Programs, International Student Center, Leadership Development, New Student &amp; Family Programs, SUper Copy, Reprographics &amp; Mailing Services, Wellness &amp; Health Promotion</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3178931066609,47.60859392408411,0 -122.3172689039023,47.60859498604819,0 -122.3172685786309,47.60892103353326,0 -122.3178909416785,47.60892152589135,0 -122.3178931066609,47.60859392408411,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Lee Center for the Arts</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lee Center for the Arts</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3173241642111,47.61048138891594,0 -122.3169262532795,47.6104804070384,0 -122.3169247406217,47.61084538284355,0 -122.3169506857305,47.61085258535778,0 -122.3169919649474,47.61081687637518,0 -122.317009686317,47.6108184645216,0 -122.3170097103935,47.61086532995225,0 -122.3172175221795,47.61086534806055,0 -122.3172186558735,47.61089155504591,0 -122.3173237332834,47.61089235851305,0 -122.3173265448822,47.61080662413345,0 -122.3173241642111,47.61048138891594,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Lemieux Library &amp; McGoldrick Learning Commons</name>
-			<description><![CDATA[Opened September 2010, the Lemieux Library & McGoldrick Learning Commons combines new construction and renovation to offer a state-of-the-art facility of approximately 125,000 square feet.<br></br>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lemieux Library &amp; McGoldrick Learning Commons</name>
+				<description><![CDATA[Opened September 2010, the Lemieux Library & McGoldrick Learning Commons combines new construction and renovation to offer a state-of-the-art facility of approximately 125,000 square feet.<br></br>]]></description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3191762698712,47.60853723646584,177 -122.3187875725503,47.60853586534195,177 -122.3187920937369,47.60851655757103,177 -122.318713285234,47.60851424620846,177 -122.3187056559883,47.60848332569569,177 -122.3184368916597,47.60848092820582,177 -122.3184368889419,47.60857287443747,177 -122.318398981289,47.60857359126373,177 -122.3183989415212,47.60866991362739,177 -122.3184872770546,47.60867023989171,177 -122.3184838287762,47.60903524864672,177 -122.3185042269223,47.6090348855793,177 -122.3185041933637,47.60909368555815,177 -122.3185401932294,47.6090925221441,177 -122.3185386181952,47.60910604943847,177 -122.3186626606475,47.6091034335597,177 -122.31866960072,47.60908937267089,177 -122.3186715700479,47.60908799495218,177 -122.3186734229646,47.60908586217427,177 -122.3186887661209,47.60907139804422,177 -122.3187330743614,47.60907437402976,177 -122.3187330742317,47.60910414345644,177 -122.3190929351223,47.60910450108976,177 -122.3191755818304,47.60909441764683,177 -122.3191762698712,47.60853723646584,177 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Logan Court Townhouse - 819 A,B,C</name>
-			<description>Residences</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Logan Court Townhouse - 819 A,B,C</name>
+				<description>Residences</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3157717316765,47.60982018722551,0 -122.3157713696219,47.60981114217082,0 -122.3156210063986,47.60981095530921,0 -122.31562014484,47.60981928931183,0 -122.3156103345451,47.6098196289127,0 -122.3156104025599,47.60985581220069,0 -122.3156216569789,47.60985581377553,0 -122.3156217637944,47.60986342192708,0 -122.3156105165587,47.60986341852232,0 -122.3156107489727,47.60990093151047,0 -122.3156223878152,47.60990095950918,0 -122.3156225556113,47.60991013097226,0 -122.3156109347884,47.6099104249891,0 -122.3156106787312,47.60994755853044,0 -122.3156217756856,47.60994760972705,0 -122.3156238425822,47.60995606110933,0 -122.3157718698497,47.60995652741693,0 -122.3157718402374,47.60994697560766,0 -122.3157812781244,47.60994685412448,0 -122.315781546164,47.60991201144258,0 -122.3157697136008,47.60991201676024,0 -122.3157696955088,47.60990222349249,0 -122.3157821319257,47.60990221008165,0 -122.3157820604074,47.60986650453301,0 -122.3157711464053,47.60986672243978,0 -122.3157711236179,47.60985617140526,0 -122.3157823934084,47.60985617939128,0 -122.315782364839,47.60982018305459,0 -122.3157717316765,47.60982018722551,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Logan Court Townhouses</name>
-			<description>Residences</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Logan Court Townhouses</name>
+				<description>Residences</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3158405436182,47.60981123985482,0 -122.3158411627016,47.60981951631742,0 -122.3158296445956,47.60981894001492,0 -122.3158296266014,47.60985816301412,0 -122.3158399426938,47.60985799927728,0 -122.315840121808,47.60986628655156,0 -122.3158296772698,47.60986596715449,0 -122.3158296345454,47.6099041326891,0 -122.3158399724165,47.60990427662789,0 -122.3158400354801,47.60991229311776,0 -122.3158300391309,47.60991209250622,0 -122.3158313271841,47.60994833041001,0 -122.3158437058417,47.60994836952532,0 -122.3158437772456,47.60995642781716,0 -122.3159901814884,47.60995610166804,0 -122.3159902569586,47.60994960025941,0 -122.3160017525298,47.60994937137946,0 -122.316001658883,47.60991162431684,0 -122.3159914606488,47.60991175369298,0 -122.3159912223226,47.60990410785575,0 -122.3160016059521,47.60990420486076,0 -122.316001479359,47.6098669268362,0 -122.3159893694809,47.6098669331821,0 -122.3159894617792,47.60985785923745,0 -122.3160015853773,47.60985784404436,0 -122.3160016624127,47.60982129802544,0 -122.3159891575945,47.60982161048428,0 -122.3159888015265,47.60981141304551,0 -122.3158405436182,47.60981123985482,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Loyola Hall</name>
-			<description>College of Education, Children&apos;s Literacy Project, Jesuit Identity, Learning Center, Wismer Center, International Development Internship Program, Wismer Center, Center for the Study of Justice in Society, Magis, Alumni Committed for Mission</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Loyola Hall</name>
+				<description>College of Education, Children&apos;s Literacy Project, Jesuit Identity, Learning Center, Wismer Center, International Development Internship Program, Wismer Center, Center for the Study of Justice in Society, Magis, Alumni Committed for Mission</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3197221815527,47.60952693295093,0 -122.3199617235805,47.60952440134388,0 -122.3199672535246,47.6095615685426,0 -122.3200285678449,47.6095617291123,0 -122.3200297993703,47.60931298435394,0 -122.3197981588386,47.60931192977455,0 -122.319795248868,47.60937515847444,0 -122.3196160338104,47.60937400057748,0 -122.3196128957704,47.60936643984189,0 -122.3194969061029,47.60936514771599,0 -122.3194969104852,47.6093759735493,0 -122.3194728144224,47.60937682071039,0 -122.3194728445675,47.60948969523852,0 -122.3195449459021,47.60949304291815,0 -122.319545401788,47.6098111908469,0 -122.3197220798724,47.60980790050703,0 -122.3197221815527,47.60952693295093,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Lynn Building</name>
-			<description>Communication Department (Arts &amp; Sciences), Culture and Language Bridge, Lynn Collegium, Organization Systems Renewal</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lynn Building</name>
+				<description>Communication Department (Arts &amp; Sciences), Culture and Language Bridge, Lynn Collegium, Organization Systems Renewal</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.317941447923,47.61194440765695,0 -122.317808280359,47.61194441281161,0 -122.3178083063419,47.611897492908,0 -122.3177545990852,47.61189749327812,0 -122.3177565956251,47.61223698009359,0 -122.3179370790411,47.6122358259658,0 -122.317941447923,47.61194440765695,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Kolvenbach Residence (Men&apos;s Community)</name>
-			<description>Residences</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Kolvenbach Residence (Men&apos;s Community)</name>
+				<description>Residences</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3159758388785,47.60662417276436,0 -122.3158670692126,47.60662427351961,0 -122.3158665715008,47.6067305864504,0 -122.3159756381061,47.60673088209392,0 -122.3159758388785,47.60662417276436,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Kolvenbach Residence (Women&apos;s Community)</name>
-			<description>Residences</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<extrude>1</extrude>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Kolvenbach Residence (Women&apos;s Community)</name>
+				<description>Residences</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3158522176209,47.60692026114344,0 -122.3157335809925,47.60691955118242,0 -122.3157339672975,47.60701909368876,0 -122.3158514112238,47.60701823423226,0 -122.3158522176209,47.60692026114344,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Marketing Communications</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Marketing Communications</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3159049526772,47.60863118356532,0 -122.3159050670163,47.60846416881178,0 -122.3155752744939,47.60846410966613,0 -122.3155707339537,47.6086298580854,0 -122.3159049526772,47.60863118356532,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>O&apos;Brien Center for Athletic Administration</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>O&apos;Brien Center for Athletic Administration</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3160851610041,47.60814067978594,0 -122.3157289046059,47.60813897637849,0 -122.3157292617331,47.60830347731603,0 -122.3159052540465,47.60830248933707,0 -122.3159036341284,47.60863118238196,0 -122.3160827425858,47.60863103067855,0 -122.3160851610041,47.60814067978594,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Pigott Building</name>
-			<description>Albers School of Business and Economics, Pigott Auditorium, Paccar Atrium</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pigott Building</name>
+				<description>Albers School of Business and Economics, Pigott Auditorium, Paccar Atrium</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3187198001846,47.6105246194786,0 -122.3183119587955,47.61052075883297,0 -122.3183107618029,47.61052685520027,0 -122.3182555332587,47.61052575875441,0 -122.3182534961195,47.61061767114763,0 -122.3183124152621,47.61061789544732,0 -122.318310950749,47.61068008481945,0 -122.3183933407356,47.61067983577893,0 -122.3183899522338,47.6107976909585,0 -122.3183669463386,47.61079697788134,0 -122.3183554213758,47.61081008659035,0 -122.3183703877197,47.61082542478867,0 -122.3183669256765,47.61084928213288,0 -122.3184016926737,47.6108490578313,0 -122.3183988692792,47.61093311920219,0 -122.3186819519017,47.61093153865979,0 -122.3186824586457,47.61093457038985,0 -122.3186859555053,47.6109372650733,0 -122.3186895035558,47.61093966150619,0 -122.3186940377392,47.61094193583896,0 -122.3186985683465,47.61094267188666,0 -122.3187030977926,47.61094340778472,0 -122.3187076274902,47.61094491214853,0 -122.3187118288174,47.61094499347738,0 -122.3187167928312,47.61094599808419,0 -122.3187212549197,47.61094632975985,0 -122.3187267043123,47.61094666014554,0 -122.3187316528977,47.61094665465254,0 -122.3187365958286,47.61094631317209,0 -122.318741534845,47.61094597193851,0 -122.3187471794017,47.61094462122362,0 -122.3187516933299,47.61094458880978,0 -122.3187573294114,47.61094301405057,0 -122.318761835565,47.61094144794135,0 -122.3187663399962,47.61093988239212,0 -122.3187685840694,47.6109367994912,0 -122.318771956669,47.61093447638919,0 -122.3187730832129,47.61093446873962,0 -122.3191529610618,47.61093107881652,0 -122.3191490419234,47.61080134354208,0 -122.3189186869302,47.61080181056914,0 -122.318917904513,47.61076392005663,0 -122.3189697353008,47.61076308712042,0 -122.3189697082255,47.61071574467944,0 -122.3189235623317,47.61071572400283,0 -122.3189241423561,47.61068576037684,0 -122.3191431546447,47.61068491592398,0 -122.319140120182,47.61062257021064,0 -122.3191803981512,47.61062300632455,0 -122.3191790333447,47.61052285937863,0 -122.3189530305448,47.6105244756109,0 -122.3188235432923,47.61052212888289,0 -122.3188256369882,47.61050432707782,0 -122.3187969987153,47.6104853700858,0 -122.3187529526488,47.61048541004878,0 -122.318719769945,47.61050211956442,0 -122.3187198001846,47.6105246194786,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Rianna Building</name>
-			<description>Student residences, Human Resources, Conference and Event Services</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Rianna Building</name>
+				<description>Student residences, Human Resources, Conference and Event Services</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3166397723941,47.60850883051527,0 -122.3160974682886,47.60850785044573,0 -122.3160965723448,47.6086493229981,0 -122.3161353239926,47.60864945522474,0 -122.3161351431905,47.60865725669898,0 -122.3162204876027,47.60865722545893,0 -122.3162204913547,47.60864264046367,0 -122.3162943013693,47.60864282703233,0 -122.3162944132199,47.60873405405745,0 -122.3163144522866,47.60873405655563,0 -122.3163143503361,47.60881602473294,0 -122.3162963350791,47.60881622215113,0 -122.3162968262491,47.60895876945759,0 -122.3162269779042,47.6089587374149,0 -122.3162260299787,47.6089370779482,0 -122.3161115699704,47.60893707292388,0 -122.3161117453214,47.60912506270505,0 -122.3162975094193,47.60912409037506,0 -122.316297437246,47.60910849680203,0 -122.316400339184,47.60910821189866,0 -122.3164004911308,47.60912797267125,0 -122.3165581982161,47.60912767946655,0 -122.3166114074123,47.60912777755597,0 -122.3166401114016,47.60910984449408,0 -122.3166397723941,47.60850883051527,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>School of Law Annex</name>
-			<description>Ronald A. Peterson Law Clinic - Externship Progam, Student Publications - Seattle Environmental Law Journal, Seattle Journal for Social Justice, Seattle University Law Review</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>School of Law Annex</name>
+				<description>Ronald A. Peterson Law Clinic - Externship Progam, Student Publications - Seattle Environmental Law Journal, Seattle Journal for Social Justice, Seattle University Law Review</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3160785028061,47.60879462694843,0 -122.3155711278402,47.6087966711553,0 -122.3155703294509,47.60912248101336,0 -122.3160791704693,47.60912434867783,0 -122.3160785028061,47.60879462694843,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Student Center</name>
-			<description>ASSU, Campus Assistance Center, Campus Ministry, Career Development Center, Center for Commuter Student Services, Center for Service, Center for Student Involvement, Cheery Street Market, Collegia Coordinators, Commuter Student Service, Meeting Rooms, Counseling Center, Game Room, Graduate Student Council, Hawk&apos;s Nest Bistro, International Student Center, Kateri Tekakwitha Collegium, Maguire Center for Campus Ministry, Meeting Rooms, Multicultural Student Affairs Office, Office of Multicultural Student Affairs, Reprographics &amp; Mailing Services, Senior Class Council, Student Development Office, Student Events and Activities Office, TV Lounge</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Student Center</name>
+				<description>ASSU, Campus Assistance Center, Campus Ministry, Career Development Center, Center for Commuter Student Services, Center for Service, Center for Student Involvement, Cheery Street Market, Collegia Coordinators, Commuter Student Service, Meeting Rooms, Counseling Center, Game Room, Graduate Student Council, Hawk&apos;s Nest Bistro, International Student Center, Kateri Tekakwitha Collegium, Maguire Center for Campus Ministry, Meeting Rooms, Multicultural Student Affairs Office, Office of Multicultural Student Affairs, Reprographics &amp; Mailing Services, Senior Class Council, Student Development Office, Student Events and Activities Office, TV Lounge</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3186894830133,47.60820150683589,0 -122.3184063539002,47.60820252708021,0 -122.3184063706641,47.60821181171666,0 -122.3180880053926,47.60821138090542,0 -122.318089478989,47.60819724853563,0 -122.318052575459,47.60819622451189,0 -122.3180511531954,47.60817487268226,0 -122.3177646423398,47.60817544001695,0 -122.3177638986676,47.60820086871805,0 -122.3175770556354,47.60820156810362,0 -122.3175760396185,47.60830008345639,0 -122.3176438466339,47.60830040562951,0 -122.3176438626955,47.60831486424329,0 -122.3176106760903,47.60831617358815,0 -122.317609886565,47.60843625747852,0 -122.3177747375384,47.60843599200626,0 -122.3177745568685,47.60845645052098,0 -122.3180572346026,47.60845906987439,0 -122.3180529226315,47.60854036803123,0 -122.3180738739636,47.60854040525543,0 -122.3180717652952,47.60854895299894,0 -122.3183313263584,47.6085663577217,0 -122.3183315512198,47.60846025785537,0 -122.3184076107595,47.60846003756004,0 -122.3184071250989,47.60838032025774,0 -122.3186886231542,47.60838034856238,0 -122.3186894830133,47.60820150683589,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Sullivan Hall</name>
-			<description>Administrative Services, Alternative Dispute Resolution Board, Classroom/Seminar Rooms, Dean&apos;s Offices, Faculty Offices, Justice Fred H. Dore Courtroom, Law Review, Law Library, Moot Court Board, Ronald A. Peterson Law Clinic, Student Bar Association Executive Office, Student Bar Student Organization, Technology and Media Services</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sullivan Hall</name>
+				<description>Administrative Services, Alternative Dispute Resolution Board, Classroom/Seminar Rooms, Dean&apos;s Offices, Faculty Offices, Justice Fred H. Dore Courtroom, Law Review, Law Library, Moot Court Board, Ronald A. Peterson Law Clinic, Student Bar Association Executive Office, Student Bar Student Organization, Technology and Media Services</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3179356032723,47.60935626341364,0 -122.3175800872023,47.60935623600747,0 -122.3175792557815,47.60945634634544,0 -122.3171560378912,47.60945675478925,0 -122.317155935758,47.60940931632222,0 -122.3170056190662,47.60940990152011,0 -122.3170057538403,47.60942743894943,0 -122.316939651163,47.60942883374312,0 -122.3169390550701,47.60978473483418,0 -122.3170317289235,47.60978462145858,0 -122.3170318034216,47.60975784632998,0 -122.3175493341969,47.60975418887873,0 -122.3175489937121,47.60977322364441,0 -122.3176079366828,47.60977345548271,0 -122.3176081816593,47.60977738756146,0 -122.3176169516152,47.60977731894882,0 -122.3176178837474,47.60983253900346,0 -122.3179323397907,47.60983053271324,0 -122.3179332696989,47.60962651845065,0 -122.3179490446616,47.60962514434603,0 -122.3179490748985,47.60953847493769,0 -122.3179342870371,47.60953843195942,0 -122.3179356032723,47.60935626341364,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Teilhard de Chardin Hall</name>
-			<description>Student residences, Ecumenical Chapel</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Teilhard de Chardin Hall</name>
+				<description>Student residences, Ecumenical Chapel</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.318694350261,47.60686989632589,0 -122.3186963600879,47.60685768592332,0 -122.3187385681796,47.60685612867314,0 -122.3187385693126,47.60679927357472,0 -122.3188409682625,47.60680016083747,0 -122.3188421465196,47.60669612951084,0 -122.3186336072097,47.60669185326027,0 -122.3186349897865,47.60652118649905,0 -122.3186729734197,47.60652175185139,0 -122.3186719877155,47.60644406854468,0 -122.3186395640102,47.60644495305674,0 -122.3186383476449,47.60634737049046,0 -122.3185258733291,47.60634728687916,0 -122.3185258757207,47.60635366095804,0 -122.3183980431001,47.60635397408685,0 -122.3183941089067,47.60651767329942,0 -122.3183568584557,47.60651675050133,0 -122.3183565790643,47.6065891575686,0 -122.3183978400602,47.60658909138649,0 -122.3183965893858,47.60675994003305,0 -122.3183418042022,47.60675962078581,0 -122.318345905283,47.60687045364354,0 -122.3183592829858,47.60687028404736,0 -122.3183583804056,47.60694243729118,0 -122.3183277536083,47.60694250418784,0 -122.3183274924029,47.60701244561739,0 -122.3183593800669,47.60701217351963,0 -122.3183576546258,47.60714123219337,0 -122.3184483555711,47.60714114261499,0 -122.318448359315,47.6071292651184,0 -122.3184978986064,47.60712892520987,0 -122.3184982677128,47.60715033295838,0 -122.3186003971126,47.60714961329935,0 -122.3186038780544,47.60687280245757,0 -122.318694350261,47.60686989632589,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>University Services Building</name>
-			<description>Bookstore, Enrollment Services, Public Safety, Registrar, Finance and Budget Office, Research Services and Sponsored Projects, Student Financial Services, University Core Curriculum</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>University Services Building</name>
+				<description>Bookstore, Enrollment Services, Public Safety, Registrar, Finance and Budget Office, Research Services and Sponsored Projects, Student Financial Services, University Core Curriculum</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3177864252865,47.60995765292647,0 -122.3177852157783,47.60987257894637,0 -122.3175860819929,47.60987298166207,0 -122.3175854941222,47.60982926948525,0 -122.3175155104745,47.6098294645929,0 -122.3175147617851,47.60980590216523,0 -122.3170915897855,47.6098086922902,0 -122.3170919048814,47.61010874656882,0 -122.3170987112133,47.61012877679282,0 -122.3171146743532,47.61014724527817,0 -122.3171329394192,47.61015954041535,0 -122.3171740571158,47.61017486184713,0 -122.3177363749981,47.61017173496741,0 -122.3177361612402,47.61012435394009,0 -122.3177755230547,47.61012422799325,0 -122.3177755318689,47.61003121503264,0 -122.3177871688404,47.61003124453506,0 -122.3177959627303,47.61003060865967,0 -122.3178056760899,47.61002779202021,0 -122.317813081244,47.61002476490448,0 -122.3178199647367,47.61002095289476,0 -122.3178256983568,47.61001656343034,0 -122.3178295272967,47.6100116199664,0 -122.3178323404122,47.61000644434823,0 -122.3178332755658,47.61000178650898,0 -122.3178340469793,47.60999583690187,0 -122.3178335536585,47.609990215534,0 -122.3178327495572,47.60998621546556,0 -122.3178290901412,47.6099806868587,0 -122.3178238349935,47.60997470473036,0 -122.3178156958606,47.60996943775094,0 -122.3178084859791,47.60996589457544,0 -122.3177993123002,47.6099626923609,0 -122.3177933317024,47.60996202223823,0 -122.3177866786907,47.6099613477612,0 -122.3177864252865,47.60995765292647,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>Xavier Residence Hall</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Xavier Residence Hall</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
 							-122.3175963934776,47.61164083146632,0 -122.3174157029752,47.61164196626082,0 -122.3174162386319,47.6117909154313,0 -122.3171339446415,47.61179144440236,0 -122.3171340097305,47.61164125999441,0 -122.3169501738143,47.61164025907036,0 -122.3169494172494,47.61192762482443,0 -122.31721957211,47.61192866988188,0 -122.3172204385047,47.61194780150638,0 -122.3173282129449,47.61194786767698,0 -122.3173282605267,47.6119287122233,0 -122.3176019476852,47.61192660543926,0 -122.3175963934776,47.61164083146632,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-	</Folder>
-</Document>
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
 </kml>
