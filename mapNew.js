@@ -71,7 +71,7 @@ function initialize() {
   // Initialize the map
   var LocSeattleU = new google.maps.LatLng(47.60983, -122.316799);
   var mapOptions = {
-    zoom: 16,
+    zoom: 17,
     center: LocSeattleU,
     fullscreenControl: false,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
