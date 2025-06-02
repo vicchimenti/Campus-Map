@@ -1,0 +1,311 @@
+<Placemark>
+  <name>Cornish Playhouse</name>
+  <description><![CDATA[
+  
+  <!-- Description and images can be added here -->
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>recreational</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>CPH</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.353137,47.623845,0
+          -122.352889,47.623845,0
+          -122.352889,47.623617,0
+          -122.353137,47.623617,0
+          -122.353137,47.623845,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+<Placemark>
+  <name>Cornish College of the Arts Main Campus</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>CCA-M</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.333898,47.617853,0
+          -122.333508,47.617851,0
+          -122.333507,47.617628,0
+          -122.333898,47.617628,0
+          -122.333898,47.617853,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+<Placemark>
+  <name>Cornish Notion Building</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>CNB</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.334053,47.619264,0
+          -122.333829,47.619265,0
+          -122.333827,47.619064,0
+          -122.334052,47.619065,0
+          -122.334053,47.619264,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+<Placemark>
+  <name>Cornish The Ivey</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>residential</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>IVY</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.333583,47.617153,0
+          -122.333364,47.617154,0
+          -122.333364,47.616939,0
+          -122.333583,47.616939,0
+          -122.333583,47.617153,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+<Placemark>
+  <name>Cornish Raisbeck Hall</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>RAI</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.343344,47.618186,0
+          -122.343049,47.618187,0
+          -122.343048,47.617968,0
+          -122.343343,47.617967,0
+          -122.343344,47.618186,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+
+<Placemark>
+  <name>Cornish Commons</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>residential</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>COMM</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.333308,47.616681,0
+          -122.333111,47.616683,0
+          -122.333107,47.616482,0
+          -122.333308,47.616481,0
+          -122.333308,47.616681,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+
+<Placemark>
+  <name>Cornish 9th Ave Gallery</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>GALL</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.336519,47.616986,0
+          -122.336304,47.616986,0
+          -122.336304,47.616785,0
+          -122.336519,47.616785,0
+          -122.336519,47.616986,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+
+<Placemark>
+  <name>Cornish Lui Building</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>LUI</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.338572,47.617216,0
+          -122.338359,47.617216,0
+          -122.338359,47.617018,0
+          -122.338572,47.617018,0
+          -122.338572,47.617216,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+
+
+<Placemark>
+  <name>Cornish The Annex</name>
+  <description><![CDATA[
+  
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>ANNX</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -122.335204,47.617223,0
+          -122.335000,47.617223,0
+          -122.335000,47.617024,0
+          -122.335204,47.617024,0
+          -122.335204,47.617223,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
