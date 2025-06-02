@@ -70,40 +70,6 @@
 				</Polygon>
 			</Placemark>
 			<Placemark>
-				<name>1313 East Columbia Building</name>
-				<description>Facilities Services
-	
-	Built in 1939 as a Coca-Cola bottling plant, the architecture of 1313 E Columbia exemplifies Streamline Moderne, a Depression-Era Art Deco style popular from the late 1920s to the 1940s. 
-	
-	In 2010, it served as the Interim Library durign construction of the Lemieux Library and McGoldrick Learning Commons.</description>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Polygon>
-					<tessellate>1</tessellate>
-					<outerBoundaryIs>
-						<LinearRing>
-							<coordinates>
-								-122.3147806361176,47.6090651560386,0 -122.3147795016314,47.60832021920004,0 -122.3143384755498,47.60831931688057,0 -122.3143376414081,47.60873764043355,0 -122.3143165652914,47.60873841305878,0 -122.3143163012364,47.6089486897983,0 -122.3142940973993,47.60895003382481,0 -122.3142943373632,47.60907924836712,0 -122.3145038853977,47.60908110346279,0 -122.3145049482569,47.60906533595367,0 -122.3147806361176,47.6090651560386,0 
-							</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
-				<name>Administration Building</name>
-				<description>Office of the President, University Advancement, Development Office</description>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Polygon>
-					<tessellate>1</tessellate>
-					<outerBoundaryIs>
-						<LinearRing>
-							<coordinates>
-								-122.3197730432087,47.61082527163454,0 -122.3195212520604,47.6108255175036,0 -122.3195200666227,47.61110505684118,0 -122.3194984809361,47.61110508273358,0 -122.3194985699992,47.61116528979867,0 -122.3195202097544,47.61116682901656,0 -122.319520306123,47.61144248564591,0 -122.3197759958837,47.61144473641636,0 -122.3197754511926,47.61115293918195,0 -122.3197888469416,47.61115305166822,0 -122.319788217928,47.61111447874475,0 -122.3197735436576,47.6111140849866,0 -122.3197730432087,47.61082527163454,0 
-							</coordinates>
-						</LinearRing>
-					</outerBoundaryIs>
-				</Polygon>
-			</Placemark>
-			<Placemark>
 				<name>Admissions &amp; Alumni Building</name>
 				<description>Undergraduate Admissions, Graduate Admissions, Alumni Relations, Kinsey Gallery</description>
 				<styleUrl>#msn_ylw-pushpin</styleUrl>
