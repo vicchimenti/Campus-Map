@@ -33,37 +33,37 @@
     </Polygon>
   </Placemark>
   <Placemark>
-  <name>Cornish Notion Building</name>
-  <description><![CDATA[
+    <name>Cornish Notion Building</name>
+    <description><![CDATA[
     Notion Building – Cornish College of the Arts
-  ]]></description>
-  <styleUrl>#sn_ylw-pushpin10</styleUrl>
-  <ExtendedData>
-    <Data name="category">
-      <value>academic</value>
-    </Data>
-    <Data name="abbreviation">
-      <value>CNOT</value>
-    </Data>
-    <Data name="style">
-      <value>plainred</value>
-    </Data>
-  </ExtendedData>
-  <Polygon>
-    <tessellate>1</tessellate>
-    <outerBoundaryIs>
-      <LinearRing>
-        <coordinates>
+  ]]>    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>academic</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>CNOT</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
 -122.3356654,47.6180731,0
 -122.3354823,47.6179654,0
 -122.3357292,47.6177737,0
 -122.3357962,47.6177220,0
 -122.3359787,47.6178295,0
 -122.3356654,47.6180731,0
-        </coordinates>
-      </LinearRing>
-    </outerBoundaryIs>
-  </Polygon>
-</Placemark>
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
 
 </kml>
