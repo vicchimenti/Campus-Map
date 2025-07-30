@@ -65,5 +65,39 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
+  <Placemark>
+    <name>Behnke Family Gallery</name>
+    <description><![CDATA[
+    Fashioncraft Building - Cornish College of the Arts
+  ]]>    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>academic</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>CBFG</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-122.3349982,47.6184336,0
+-122.3344814,47.6184323,0
+-122.3344810,47.6181370,0
+-122.3345146,47.6181295,0
+-122.3349979,47.6184132,0
+-122.3349982,47.6184336,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
 
 </kml>
