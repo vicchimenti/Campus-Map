@@ -247,6 +247,45 @@
     </Polygon>
   </Placemark>
 
+  <Placemark>
+    <name>Cornish Commons</name>
+    <description><![CDATA[
+
+  ]]>
+    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>residential</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>CC</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-122.3365000,47.6174602,0
+-122.3361952,47.6176967,0
+-122.3359192,47.6175352,0
+-122.3359406,47.6175186,0
+-122.3360726,47.6174161,0
+-122.3362240,47.6172986,0
+-122.3362524,47.6173152,0
+-122.3364801,47.6174485,0
+-122.3365000,47.6174602,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+
 
 
 
