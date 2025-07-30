@@ -212,6 +212,41 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
+  <Placemark>
+    <name>Beebe Building</name>
+    <description><![CDATA[
+  
+  ]]>
+    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>academic</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>BB</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-122.3359857,47.6170877,0
+-122.3358061,47.6169817,0
+-122.3359652,47.6168592,0
+-122.3361239,47.6167371,0
+-122.3363035,47.6168431,0
+-122.3359857,47.6170877,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
 
 
 
