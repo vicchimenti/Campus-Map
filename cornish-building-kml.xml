@@ -140,6 +140,44 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
+  <Placemark>
+    <name>Cornish The Annex</name>
+    <description><![CDATA[
+  
+  ]]>    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>academic</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>ANX</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+        -122.3344671,47.6177516,0
+        -122.3344655,47.6176605,0
+        -122.3344643,47.6175826,0
+        -122.3344695,47.6175527,0
+        -122.3344905,47.6175063,0
+        -122.3345191,47.6174626,0
+        -122.3346996,47.6175702,0
+        -122.3346704,47.6175927,0
+        -122.3345856,47.6176589,0
+        -122.3344671,47.6177516,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
 
 
 
