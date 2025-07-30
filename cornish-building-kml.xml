@@ -98,6 +98,49 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
+  <Placemark>
+    <name>Raisbeck Auditorium</name>
+    <description><![CDATA[
+    <p><strong>1000 Denny Way</strong><br>Seattle, WA 98109<br>Operated by Cornish College of the Arts</p>
+  ]]>    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>performance</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>CRRA</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+        -122.3360226,47.6192769,0
+        -122.3360262,47.6186521,0
+        -122.3360619,47.6186522,0
+        -122.3360620,47.6186296,0
+        -122.3366458,47.6186313,0
+        -122.3366456,47.6186560,0
+        -122.3367873,47.6186564,0
+        -122.3367870,47.6186955,0
+        -122.3366855,47.6186952,0
+        -122.3366840,47.6189522,0
+        -122.3370401,47.6189532,0
+        -122.3370383,47.6192683,0
+        -122.3365773,47.6192670,0
+        -122.3365772,47.6192783,0
+        -122.3360226,47.6192769,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
 
 
 </kml>
