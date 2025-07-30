@@ -106,7 +106,7 @@
     <styleUrl>#sn_ylw-pushpin10</styleUrl>
     <ExtendedData>
       <Data name="category">
-        <value>performance</value>
+        <value>academic</value>
       </Data>
       <Data name="abbreviation">
         <value>CRPH</value>
@@ -144,7 +144,7 @@
     <styleUrl>#sn_ylw-pushpin10</styleUrl>
     <ExtendedData>
       <Data name="category">
-        <value>performance</value>
+        <value>academic</value>
       </Data>
       <Data name="abbreviation">
         <value>CRAD</value>
@@ -329,7 +329,7 @@
     <styleUrl>#sn_ylw-pushpin10</styleUrl>
     <ExtendedData>
       <Data name="category">
-        <value>performance</value>
+        <value>academic</value>
       </Data>
       <Data name="abbreviation">
         <value>CCPH</value>
@@ -395,7 +395,7 @@
     <styleUrl>#sn_ylw-pushpin10</styleUrl>
     <ExtendedData>
       <Data name="category">
-        <value>support</value>
+        <value>academic</value>
       </Data>
       <Data name="abbreviation">
         <value>CSCN</value>
