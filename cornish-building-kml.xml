@@ -177,6 +177,42 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
+  <Placemark>
+    <name>Cornish Lui Building</name>
+    <description><![CDATA[
+  
+  ]]>    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>academic</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>LUI</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-122.335439,47.616765,0
+-122.335598,47.6166426,0
+-122.3357582,47.6165193,0
+-122.3360475,47.6166901,0
+-122.3358874,47.6168133,0
+-122.3359652,47.6168592,0
+-122.3358061,47.6169817,0
+-122.335439,47.616765,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
 
 
 
