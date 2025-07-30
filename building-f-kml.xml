@@ -1736,42 +1736,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Cornish Playhouse</name>
+        <name>Cornish Main Campus</name>
         <description><![CDATA[
-  
-  
-  ]]>        </description>
-        <styleUrl>#sn_ylw-pushpin10</styleUrl>
-        <ExtendedData>
-          <Data name="category">
-            <value>recreational</value>
-          </Data>
-          <Data name="abbreviation">
-            <value>CPH</value>
-          </Data>
-          <Data name="style">
-            <value>plainred</value>
-          </Data>
-        </ExtendedData>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-          -122.353137,47.623845,0
-          -122.352889,47.623845,0
-          -122.352889,47.623617,0
-          -122.353137,47.623617,0
-          -122.353137,47.623845,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Cornish College of the Arts Main Campus</name>
-        <description><![CDATA[
-  
+    Main Campus Center – Cornish College of the Arts
   ]]>        </description>
         <styleUrl>#sn_ylw-pushpin10</styleUrl>
         <ExtendedData>
@@ -1779,7 +1746,7 @@
             <value>academic</value>
           </Data>
           <Data name="abbreviation">
-            <value>CCA-M</value>
+            <value>CMCC</value>
           </Data>
           <Data name="style">
             <value>plainred</value>
@@ -1790,11 +1757,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-          -122.333898,47.617853,0
-          -122.333508,47.617851,0
-          -122.333507,47.617628,0
-          -122.333898,47.617628,0
-          -122.333898,47.617853,0
+-122.3362983,47.6184429,0
+-122.3358892,47.6182012,0
+-122.3362087,47.6179534,0
+-122.3366108,47.6182029,0
+-122.3363350,47.6184177,0
+-122.3362983,47.6184429,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1803,7 +1771,7 @@
       <Placemark>
         <name>Cornish Notion Building</name>
         <description><![CDATA[
-  
+    Notion Building – Cornish College of the Arts
   ]]>        </description>
         <styleUrl>#sn_ylw-pushpin10</styleUrl>
         <ExtendedData>
@@ -1811,7 +1779,7 @@
             <value>academic</value>
           </Data>
           <Data name="abbreviation">
-            <value>CNB</value>
+            <value>CNOT</value>
           </Data>
           <Data name="style">
             <value>plainred</value>
@@ -1822,52 +1790,21 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-          -122.334053,47.619264,0
-          -122.333829,47.619265,0
-          -122.333827,47.619064,0
-          -122.334052,47.619065,0
-          -122.334053,47.619264,0
+-122.3356654,47.6180731,0
+-122.3354823,47.6179654,0
+-122.3357292,47.6177737,0
+-122.3357962,47.6177220,0
+-122.3359787,47.6178295,0
+-122.3356654,47.6180731,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Cornish The Ivey</name>
+        <name>Behnke Family Gallery</name>
         <description><![CDATA[
-  
-  ]]>        </description>
-        <styleUrl>#sn_ylw-pushpin10</styleUrl>
-        <ExtendedData>
-          <Data name="category">
-            <value>residential</value>
-          </Data>
-          <Data name="abbreviation">
-            <value>IVY</value>
-          </Data>
-          <Data name="style">
-            <value>plainred</value>
-          </Data>
-        </ExtendedData>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-          -122.333583,47.617153,0
-          -122.333364,47.617154,0
-          -122.333364,47.616939,0
-          -122.333583,47.616939,0
-          -122.333583,47.617153,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Cornish Raisbeck Hall</name>
-        <description><![CDATA[
-  
+    9th Avenue Gallery - Cornish College of the Arts
   ]]>        </description>
         <styleUrl>#sn_ylw-pushpin10</styleUrl>
         <ExtendedData>
@@ -1875,7 +1812,7 @@
             <value>academic</value>
           </Data>
           <Data name="abbreviation">
-            <value>RAI</value>
+            <value>CBFG</value>
           </Data>
           <Data name="style">
             <value>plainred</value>
@@ -1886,50 +1823,19 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-          -122.343344,47.618186,0
-          -122.343049,47.618187,0
-          -122.343048,47.617968,0
-          -122.343343,47.617967,0
-          -122.343344,47.618186,0
+-122.3349982,47.6184336,0
+-122.3344814,47.6184323,0
+-122.3344810,47.6181370,0
+-122.3345146,47.6181295,0
+-122.3349979,47.6184132,0
+-122.3349982,47.6184336,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Cornish Commons</name>
-        <description><![CDATA[
-  
-  ]]>        </description>
-        <styleUrl>#sn_ylw-pushpin10</styleUrl>
-        <ExtendedData>
-          <Data name="category">
-            <value>residential</value>
-          </Data>
-          <Data name="abbreviation">
-            <value>COMM</value>
-          </Data>
-          <Data name="style">
-            <value>plainred</value>
-          </Data>
-        </ExtendedData>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-          -122.333308,47.616681,0
-          -122.333111,47.616683,0
-          -122.333107,47.616482,0
-          -122.333308,47.616481,0
-          -122.333308,47.616681,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Cornish 9th Ave Gallery</name>
+        <name>Raisbeck Performance Hall</name>
         <description><![CDATA[
   
   ]]>        </description>
@@ -1939,7 +1845,7 @@
             <value>academic</value>
           </Data>
           <Data name="abbreviation">
-            <value>GALL</value>
+            <value>CRPH</value>
           </Data>
           <Data name="style">
             <value>plainred</value>
@@ -1950,20 +1856,26 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-          -122.336519,47.616986,0
-          -122.336304,47.616986,0
-          -122.336304,47.616785,0
-          -122.336519,47.616785,0
-          -122.336519,47.616986,0
+-122.3345903,47.6179223,0
+-122.3346637,47.6178648,0
+-122.3348182,47.6177440,0
+-122.3348239,47.6177473,0
+-122.3349016,47.6176865,0
+-122.3350569,47.6177766,0
+-122.3349767,47.6178393,0
+-122.3349889,47.6178464,0
+-122.3347634,47.6180228,0
+-122.3347581,47.6180198,0
+-122.3345903,47.6179223,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Cornish Lui Building</name>
+        <name>Raisbeck Auditorium</name>
         <description><![CDATA[
-  
+      
   ]]>        </description>
         <styleUrl>#sn_ylw-pushpin10</styleUrl>
         <ExtendedData>
@@ -1971,7 +1883,7 @@
             <value>academic</value>
           </Data>
           <Data name="abbreviation">
-            <value>LUI</value>
+            <value>CRAD</value>
           </Data>
           <Data name="style">
             <value>plainred</value>
@@ -1982,11 +1894,21 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-          -122.338572,47.617216,0
-          -122.338359,47.617216,0
-          -122.338359,47.617018,0
-          -122.338572,47.617018,0
-          -122.338572,47.617216,0
+        -122.3360226,47.6192769,0
+        -122.3360262,47.6186521,0
+        -122.3360619,47.6186522,0
+        -122.3360620,47.6186296,0
+        -122.3366458,47.6186313,0
+        -122.3366456,47.6186560,0
+        -122.3367873,47.6186564,0
+        -122.3367870,47.6186955,0
+        -122.3366855,47.6186952,0
+        -122.3366840,47.6189522,0
+        -122.3370401,47.6189532,0
+        -122.3370383,47.6192683,0
+        -122.3365773,47.6192670,0
+        -122.3365772,47.6192783,0
+        -122.3360226,47.6192769,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -2003,7 +1925,7 @@
             <value>academic</value>
           </Data>
           <Data name="abbreviation">
-            <value>ANNX</value>
+            <value>CANX</value>
           </Data>
           <Data name="style">
             <value>plainred</value>
@@ -2014,11 +1936,234 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-          -122.335204,47.617223,0
-          -122.335000,47.617223,0
-          -122.335000,47.617024,0
-          -122.335204,47.617024,0
-          -122.335204,47.617223,0
+        -122.3344671,47.6177516,0
+        -122.3344655,47.6176605,0
+        -122.3344643,47.6175826,0
+        -122.3344695,47.6175527,0
+        -122.3344905,47.6175063,0
+        -122.3345191,47.6174626,0
+        -122.3346996,47.6175702,0
+        -122.3346704,47.6175927,0
+        -122.3345856,47.6176589,0
+        -122.3344671,47.6177516,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cornish Lui Building</name>
+        <description><![CDATA[
+  
+  ]]>        </description>
+        <styleUrl>#sn_ylw-pushpin10</styleUrl>
+        <ExtendedData>
+          <Data name="category">
+            <value>academic</value>
+          </Data>
+          <Data name="abbreviation">
+            <value>CLUI</value>
+          </Data>
+          <Data name="style">
+            <value>plainred</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+-122.335439,47.616765,0
+-122.335598,47.6166426,0
+-122.3357582,47.6165193,0
+-122.3360475,47.6166901,0
+-122.3358874,47.6168133,0
+-122.3359652,47.6168592,0
+-122.3358061,47.6169817,0
+-122.335439,47.616765,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Beebe Building</name>
+        <description><![CDATA[
+  
+  ]]>
+        </description>
+        <styleUrl>#sn_ylw-pushpin10</styleUrl>
+        <ExtendedData>
+          <Data name="category">
+            <value>academic</value>
+          </Data>
+          <Data name="abbreviation">
+            <value>CBBE</value>
+          </Data>
+          <Data name="style">
+            <value>plainred</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+-122.3359857,47.6170877,0
+-122.3358061,47.6169817,0
+-122.3359652,47.6168592,0
+-122.3361239,47.6167371,0
+-122.3363035,47.6168431,0
+-122.3359857,47.6170877,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cornish Commons</name>
+        <description><![CDATA[
+
+  ]]>
+        </description>
+        <styleUrl>#sn_ylw-pushpin10</styleUrl>
+        <ExtendedData>
+          <Data name="category">
+            <value>residential</value>
+          </Data>
+          <Data name="abbreviation">
+            <value>CCOM</value>
+          </Data>
+          <Data name="style">
+            <value>plainred</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+-122.3365000,47.6174602,0
+-122.3361952,47.6176967,0
+-122.3359192,47.6175352,0
+-122.3359406,47.6175186,0
+-122.3360726,47.6174161,0
+-122.3362240,47.6172986,0
+-122.3362524,47.6173152,0
+-122.3364801,47.6174485,0
+-122.3365000,47.6174602,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cornish Playhouse</name>
+        <description><![CDATA[
+
+  ]]>        </description>
+        <styleUrl>#sn_ylw-pushpin10</styleUrl>
+        <ExtendedData>
+          <Data name="category">
+            <value>academic</value>
+          </Data>
+          <Data name="abbreviation">
+            <value>CCPH</value>
+          </Data>
+          <Data name="style">
+            <value>plainred</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+-122.3532489,47.6235697,0
+-122.3532235,47.6235456,0
+-122.3532133,47.6235159,0
+-122.3532212,47.6234854,0
+-122.3532465,47.6234594,0
+-122.3532853,47.6234422,0
+-122.3533307,47.6234367,0
+-122.3533753,47.6234437,0
+-122.3534117,47.6234616,0
+-122.3534144,47.6234636,0
+-122.3534793,47.6234632,0
+-122.3534792,47.6233986,0
+-122.3535615,47.6233987,0
+-122.3535616,47.6233782,0
+-122.3538332,47.6233786,0
+-122.3539713,47.6233788,0
+-122.3539705,47.6236276,0
+-122.3539682,47.6242953,0
+-122.3534378,47.6242945,0
+-122.3534383,47.6241554,0
+-122.3533446,47.6241552,0
+-122.3533436,47.6244723,0
+-122.3532438,47.6244721,0
+-122.3532440,47.6244233,0
+-122.3532453,47.6240327,0
+-122.3532455,47.6239931,0
+-122.3532456,47.6239585,0
+-122.3532390,47.6239362,0
+-122.3532246,47.6239188,0
+-122.3532159,47.6239053,0
+-122.3532152,47.6238892,0
+-122.3532226,47.6238723,0
+-122.3532333,47.6238569,0
+-122.3532410,47.6238399,0
+-122.3532460,47.6238225,0
+-122.3532461,47.6237890,0
+-122.3532462,47.6237559,0
+-122.3532463,47.6237264,0
+-122.3532489,47.6235697,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cornish Scene Shop</name>
+        <description><![CDATA[
+  
+  ]]>        </description>
+        <styleUrl>#sn_ylw-pushpin10</styleUrl>
+        <ExtendedData>
+          <Data name="category">
+            <value>academic</value>
+          </Data>
+          <Data name="abbreviation">
+            <value>CSCN</value>
+          </Data>
+          <Data name="style">
+            <value>plainred</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+-122.3535795,47.6251486,0
+-122.3536502,47.6251353,0
+-122.3537202,47.6251495,0
+-122.3537565,47.6251493,0
+-122.3537561,47.6251230,0
+-122.3538176,47.6250778,0
+-122.3539168,47.6250772,0
+-122.3539773,47.6251183,0
+-122.3539794,47.6252624,0
+-122.3539074,47.6253104,0
+-122.3538157,47.6253110,0
+-122.3537528,47.6252678,0
+-122.3537527,47.6252602,0
+-122.3537304,47.6252604,0
+-122.3537315,47.6253312,0
+-122.3536922,47.6253508,0
+-122.3536340,47.6253512,0
+-122.3535831,47.6253339,0
+-122.3535795,47.6251486,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
