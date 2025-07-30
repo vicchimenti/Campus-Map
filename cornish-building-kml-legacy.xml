@@ -310,4 +310,52 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
+
+
+    <Placemark>
+    <name>Cornish Playhouse 2</name>
+    <description><![CDATA[
+
+  ]]>    </description>
+    <styleUrl>#sn_ylw-pushpin10</styleUrl>
+    <ExtendedData>
+      <Data name="category">
+        <value>performance</value>
+      </Data>
+      <Data name="abbreviation">
+        <value>PLAY</value>
+      </Data>
+      <Data name="style">
+        <value>plainred</value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <tessellate>1</tessellate>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-122.3521722,47.6243159,0
+-122.3519756,47.6243158,0
+-122.3514860,47.6243146,0
+-122.3511863,47.6243153,0
+-122.3511872,47.6235963,0
+-122.3519563,47.6235968,0
+-122.3521731,47.6235969,0
+-122.3521730,47.6236552,0
+-122.3520897,47.6236552,0
+-122.3519579,47.6236551,0
+-122.3518462,47.6236550,0
+-122.3517906,47.6236550,0
+-122.3517899,47.6242507,0
+-122.3518457,47.6242507,0
+-122.3519738,47.6242508,0
+-122.3520883,47.6242508,0
+-122.3521723,47.6242509,0
+-122.3521720,47.6242899,0
+-122.3521722,47.6243159,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
 </kml>
