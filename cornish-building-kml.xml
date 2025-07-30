@@ -1,5 +1,49 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
+  <name>Cornish Main Campus</name>
+  <description><![CDATA[
+    Main Campus Center – Cornish College of the Arts
+  ]]></description>
+  <styleUrl>#sn_ylw-pushpin10</styleUrl>
+  <ExtendedData>
+    <Data name="category">
+      <value>academic</value>
+    </Data>
+    <Data name="abbreviation">
+      <value>CMCC</value>
+    </Data>
+    <Data name="style">
+      <value>plainred</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+-122.3362983,47.6184429,0
+-122.3358892,47.6182012,0
+-122.3362087,47.6179534,0
+-122.3366108,47.6182029,0
+-122.3363350,47.6184177,0
+-122.3362983,47.6184429,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+
+
+
+
+
+
+
+
+
+
+
+  <Placemark>
     <name>Cornish Playhouse</name>
     <description><![CDATA[
   
