@@ -109,7 +109,7 @@
         <value>performance</value>
       </Data>
       <Data name="abbreviation">
-        <value>RAIS</value>
+        <value>CRPH</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -147,7 +147,7 @@
         <value>performance</value>
       </Data>
       <Data name="abbreviation">
-        <value>CRRA</value>
+        <value>CRAD</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -189,7 +189,7 @@
         <value>academic</value>
       </Data>
       <Data name="abbreviation">
-        <value>ANX</value>
+        <value>CANX</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -226,7 +226,7 @@
         <value>academic</value>
       </Data>
       <Data name="abbreviation">
-        <value>LUI</value>
+        <value>CLUI</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -262,7 +262,7 @@
         <value>academic</value>
       </Data>
       <Data name="abbreviation">
-        <value>BB</value>
+        <value>CBBE</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -296,7 +296,7 @@
         <value>residential</value>
       </Data>
       <Data name="abbreviation">
-        <value>CC</value>
+        <value>CCOM</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -332,7 +332,7 @@
         <value>performance</value>
       </Data>
       <Data name="abbreviation">
-        <value>PLAY</value>
+        <value>CCPH</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
@@ -398,7 +398,7 @@
         <value>support</value>
       </Data>
       <Data name="abbreviation">
-        <value>SHOP</value>
+        <value>CSCN</value>
       </Data>
       <Data name="style">
         <value>plainred</value>
