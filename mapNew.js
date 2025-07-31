@@ -69,7 +69,7 @@ function initialize() {
   ]
 
   // Initialize the map
-  var LocSeattleU = new google.maps.LatLng(47.615056953158586, -122.33632629680997);
+  var LocSeattleU = new google.maps.LatLng(47.61499911198358, -122.33534997895484);
   var mapOptions = {
     zoom: 15,
     center: LocSeattleU,
